@@ -1,0 +1,82 @@
+{
+  "generator": "ecosphere-next",
+  "siteId": "c8428a39-a948-4698-9201-efabf09604c9",
+  "siteName": "Reef Guardians (test)",
+  "builtAt": "2026-08-30T05:54:21.241Z",
+  "sections": 8,
+  "pages": [
+    {
+      "slug": "",
+      "title": "Home",
+      "route": "/",
+      "file": "app/page.tsx",
+      "sections": 3
+    },
+    {
+      "slug": "what-we-do",
+      "title": "What we do",
+      "route": "/what-we-do",
+      "file": "app/what-we-do/page.tsx",
+      "sections": 3
+    },
+    {
+      "slug": "about",
+      "title": "About",
+      "route": "/about",
+      "file": "app/about/page.tsx",
+      "sections": 3
+    },
+    {
+      "slug": "contact",
+      "title": "Contact",
+      "route": "/contact",
+      "file": "app/contact/page.tsx",
+      "sections": 2
+    }
+  ],
+  "nav": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    },
+    {
+      "href": "/contact",
+      "label": "Contact"
+    },
+    {
+      "href": "/what-we-do",
+      "label": "What we do"
+    }
+  ],
+  "files": [
+    ".gitignore",
+    "app/_generated/section-0.tsx",
+    "app/_generated/section-1.tsx",
+    "app/_generated/section-2.tsx",
+    "app/_generated/section-3.tsx",
+    "app/_generated/section-4.tsx",
+    "app/_generated/section-5.tsx",
+    "app/_generated/section-6.tsx",
+    "app/_generated/section-7.tsx",
+    "app/_generated/site-nav.tsx",
+    "app/about/page.tsx",
+    "app/contact/page.tsx",
+    "app/globals.css",
+    "app/layout.tsx",
+    "app/page.tsx",
+    "app/what-we-do/page.tsx",
+    "ecosphere-build.json",
+    "next.config.mjs",
+    "package.json",
+    "postcss.config.mjs",
+    "tailwind.config.ts",
+    "tsconfig.json",
+    "vercel.json"
+  ],
+  "overlay": "https://ecosphere.ecodia.au/preview-editor.js",
+  "fingerprint": "ae83ecdf15c8144526110c917722cd41bdd366dc97cffc7cc177222199d86601"
+}
